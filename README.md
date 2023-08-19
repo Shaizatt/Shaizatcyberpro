@@ -2,7 +2,18 @@
 <h1 align="center">Hi 👋, I'm Shaizat Bakhytzhan</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaizat-bakhytzhan-b85b15246/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:yudasmalabi@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yudas1337)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://wa.me/send?phone=6282257181297)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/Yudas1337/)
+ [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Yudas1337/)
 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="auto" />
 
 - 🔭 I’m currently studying at **University of South Florida**
 
