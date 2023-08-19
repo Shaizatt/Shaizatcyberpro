@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤳 Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com//shaizat.bakhytzhan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/shaizat.bakhytzhan.7" height="30" width="40" /></a>
 <a href="https://instagram.com/@shaizatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shaizatb" height="30" width="40" /></a>
@@ -73,8 +73,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on USF
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
