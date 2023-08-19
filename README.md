@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/14032596-Cybersecurity-Animation-Free-Download/attachments/5649760?mode=media)
+[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)
 <h1 align="center">Hi 👋, I'm Shaizat Bakhytzhan</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
