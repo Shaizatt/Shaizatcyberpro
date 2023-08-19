@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)
+[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)]
 <h1 align="center">Hi 👋, I'm Shaizat Bakhytzhan</h1>
 <h3 align="center"> <br/><a href="https://www.youtube.com/channel/UCeQB7uJm8boidcGOJp88-9g">Mathematics</a>, <a href="https://linkedin.com/in/shaizat-bakhytzhan-b85b15246">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCeQB7uJm8boidcGOJp88-9g">YouTuber</a> </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
