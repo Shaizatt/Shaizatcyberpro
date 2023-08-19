@@ -29,7 +29,18 @@
   - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automate Cybersecurity Tasks with Python (Google) </b>
   - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
-
+## Operating System that i've used :
+<p>
+   
+  <!-- Your Operating System. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  --> 
+  <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elementaryio/elementaryio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
+ 
+</p>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
