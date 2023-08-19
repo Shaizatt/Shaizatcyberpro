@@ -10,7 +10,7 @@
 
 - 👯 I’m currently participating in the internship **The Threat Within and NIST Framework Internship**
 
-- 💬 Ask me about **Math problems**
+- 💬 Ask me about **anything via social media, I am very happy to answer it**
 
 - 📫 How to reach me **shaizatt@gmail.com**
 
