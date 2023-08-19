@@ -51,16 +51,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaizatt&show_icons=true&locale=en&layout=compact" alt="shaizatt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaizatt&show_icons=true&locale=en" alt="shaizatt" /></p> 
-<br>
-<p>
- <img width="35%" align="left" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudas1337&langs_count=10&hide_border=true&layout=compact&amp;hide=css,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
-  <img width="50%" align="right" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- </p>
- <br><br><br><br><br><br><br><br><br>
-<p>
- <img src = "https://github-profile-trophy.vercel.app/?username=yudas1337&margin-w=15&column=7&theme=darkhub" alt="Yudas Trophies" />
- </p>
+
  
 <h3 align="left"> 🤳 Connect with me:</h3>
 <p align="left">
