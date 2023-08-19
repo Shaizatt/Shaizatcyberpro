@@ -50,7 +50,7 @@
 <p align="left">
 <a href="https://fb.com//shaizat.bakhytzhan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/shaizat.bakhytzhan.7" height="30" width="40" /></a>
 <a href="https://instagram.com/shaizatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaizatb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shaizatbakhytzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shaizatbakhytzhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shaizatbakhytzhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaizatbakhytzhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaizat-bakhytzhan-b85b15246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaizat-bakhytzhan-b85b15246" height="30" width="40" /></a>
 </p>
 
