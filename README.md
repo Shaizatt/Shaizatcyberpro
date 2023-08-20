@@ -18,17 +18,17 @@
 <h2>👨‍💻 Cybersecurity Courses:</h2>
 
 - <b>Foundations of Cybersecurity (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 - <b>Play It Safe: Manage Security Risks (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 - <b>Connect and Protect: Networks and Network Security (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 - <b>Tools of the Trade: Linux and SQL (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 - <b>Sound the Alarm: Detection and Response (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 - <b>Automate Cybersecurity Tasks with Python (Google) </b>
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
